@@ -60,7 +60,7 @@ En el ámbito empresarial de los sistemas ERP/CRM, la adquisición de una licenc
 | **Salesforce Sales Cloud** | CRM Propietario | SaaS Comercial | **Propietaria (Main Services Agreement - MSA)** | Despliegue 100% dependiente de la nube del proveedor; no permite modificar el código base ni auditar el almacenamiento físico de datos, sujeto a cuotas mensuales recurrentes. |
 
 #### Fuentes consultadas
-* Free Software Foundation (FSF) - *The Free Software Definition*: https://www.gnu.org/philosophy/free-sw.html (Consulta: septiembre 2026).
-* Open Source Initiative (OSI) - *The Open Source Definition*: https://opensource.org/osd (Consulta: septiembre 2026).
-* Odoo Licensing details: https://www.odoo.com/documentation/18.0/legal/licenses.html (Consulta: septiembre 2026).
-* SuiteCRM Project License (AGPLv3): https://suitecrm.com/about/license/ (Consulta: septiembre 2026).
+* Free Software Foundation (FSF): https://www.gnu.org/philosophy/free-sw.html 
+* Open Source Initiative (OSI): https://opensource.org/osd 
+* Odoo Licensing details: https://www.odoo.com/documentation/18.0/legal/licenses.html 
+* SuiteCRM Project License (AGPLv3): https://suitecrm.com/about/license/ 
