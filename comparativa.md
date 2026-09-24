@@ -58,3 +58,9 @@ En el ámbito empresarial de los sistemas ERP/CRM, la adquisición de una licenc
 | **Microsoft Dynamics 365** | ERP Propietario | SaaS Comercial | **Propietaria (EULA / Microsoft Customer Agreement)** | Código inaccesible, coste periódico por usuario/mes, soporte técnico directo con SLA, pero alta dependencia del ecosistema Microsoft (*vendor lock-in*). |
 | **SuiteCRM** | CRM Libre | Open Source | **GNU AGPLv3** | Si la empresa modifica el núcleo del CRM y ofrece acceso a través de la red a usuarios externos o terceros, debe poner el código modificado a su disposición bajo los mismos términos AGPL. |
 | **Salesforce Sales Cloud** | CRM Propietario | SaaS Comercial | **Propietaria (Main Services Agreement - MSA)** | Despliegue 100% dependiente de la nube del proveedor; no permite modificar el código base ni auditar el almacenamiento físico de datos, sujeto a cuotas mensuales recurrentes. |
+
+#### Fuentes consultadas
+* Free Software Foundation (FSF) - *The Free Software Definition*: https://www.gnu.org/philosophy/free-sw.html (Consulta: septiembre 2026).
+* Open Source Initiative (OSI) - *The Open Source Definition*: https://opensource.org/osd (Consulta: septiembre 2026).
+* Odoo Licensing details: https://www.odoo.com/documentation/18.0/legal/licenses.html (Consulta: septiembre 2026).
+* SuiteCRM Project License (AGPLv3): https://suitecrm.com/about/license/ (Consulta: septiembre 2026).
