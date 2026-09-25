@@ -159,3 +159,25 @@ Para la cadena de gimnasios FitZone, la licencia más adecuada es **GNU LGPLv3**
   * *Hardware/Servidor:* Sin requisitos de servidor local (infraestructura 100% remota).
   * *Cliente:* Equipo cliente o dispositivo móvil con navegador web moderno con soporte TLS 1.3 (Google Chrome, Mozilla Firefox, Microsoft Edge o Apple Safari) y conexión a Internet de banda ancha.
   * *Fuente:* [Salesforce Technical Requirements Documentation](https://help.salesforce.com/s/articleView?id=sf.getstart_browsers_sfx.htm&type=5)
+
+---
+
+## 4. Fe de Erratas del Tema 2
+
+En este apartado se contrastan afirmaciones recogidas en la presentación del Tema 2 frente a la documentación técnica oficial y la realidad actual.
+
+---
+
+### Errata 1: Compatibilidad de SGBD en SuiteCRM
+
+* En la diapositiva *«Soluciones CRM: Libres y Propietarias»*, se afirma sobre SuiteCRM: *«Compatible con MySQL, MariaDB y SQL Server»*.
+* Pero en la versión vigente (SuiteCRM 8.x), el soporte para **Microsoft SQL Server está completamente descatalogado**. SuiteCRM 8 solo es compatible con motores relacionales **MariaDB** (versiones 10.4 a 10.11+) y **MySQL** (versión 8.0).
+* **Fuente oficial:** [SuiteCRM Documentation - Compatibility Matrix 8.x](https://docs.suitecrm.com/8.x/admin/compatibility-matrix/)
+
+---
+
+### Errata 2: Confusión entre Software Libre y Código Abierto
+
+* En la diapositiva titulada *«Software Libre vs Propietario»*, se define directamente en la primera columna el concepto de *«Código Abierto»*, tratándolos como términos equivalentes y sinónimos.
+* El **Software Libre (FSF)** y el **Código Abierto (OSI)** parten de principios distintos. El Software Libre es un movimiento de base filosófica y ética que exige el cumplimiento incondicional de las 4 libertades del usuario. El Código Abierto (*Open Source*) es un enfoque metodológico y comercial centrado en las ventajas técnicas del desarrollo colaborativo y la calidad del software, sin priorizar el componente ético.
+* **Fuente oficial:** [Free Software Foundation (FSF) - Por qué el «código abierto» pierde el punto de vista del software libre](https://www.gnu.org/philosophy/open-source-misses-the-point.es.html)
