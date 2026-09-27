@@ -45,6 +45,15 @@ En el ámbito empresarial de los sistemas ERP/CRM, la adquisición de una licenc
 
 ---
 
+### Consecuencias prácticas de las licencias: Copyleft y Cláusula AGPL
+
+* **Copyleft (Fuerte vs. Débil):**
+  * *Copyleft Fuerte (ej. GPL):* Obliga a que cualquier software derivado o que enlace con el código original sea publicado bajo la misma licencia idéntica (efecto recíproco).
+  * *Copyleft Débil (ej. LGPL):* Permite enlazar bibliotecas o crear extensiones propietarias sin obligar a liberar el código de los módulos privados, facilitando la integración empresarial.
+* **La Cláusula AGPL (Affero GPL) y el uso por red:**
+  * En licencias tradicionales (GPL), la obligación de compartir código surgía con la distribución física de binarios. En entornos Cloud/SaaS, muchas empresas ofrecían servicios web modificados sin entregar el software (*SaaS loophole*).
+  * La licencia **AGPLv3** estipula que la interacción con el software a través de una red informática cuenta legalmente como distribución, obligando a poner a disposición de los usuarios remotos el código fuente de cualquier cambio realizado.
+
 ### Implicaciones prácticas: Edición Community frente a Enterprise
 
 * **Edición Community:** Software libre/abierto (sin coste de licencia directa). Incluye la funcionalidad básica del núcleo, carece de soporte técnico oficial con SLA, y las migraciones entre versiones mayores deben realizarse manualmente o mediante herramientas de la comunidad.
